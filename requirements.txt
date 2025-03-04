@@ -1,0 +1,8 @@
+PyJWT
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+PyMySQL
+python-dotenv
+flask-jwt-extended
+requests
